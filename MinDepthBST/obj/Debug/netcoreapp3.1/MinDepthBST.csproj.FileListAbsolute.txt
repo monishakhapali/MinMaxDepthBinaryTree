@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\bin\Debug\netcoreapp3.1\MinDepthBST.exe
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\bin\Debug\netcoreapp3.1\MinDepthBST.deps.json
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\bin\Debug\netcoreapp3.1\MinDepthBST.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\bin\Debug\netcoreapp3.1\MinDepthBST.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\bin\Debug\netcoreapp3.1\MinDepthBST.dll
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\bin\Debug\netcoreapp3.1\MinDepthBST.pdb
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.dll
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.pdb
+C:\Users\monisha.khapali\source\repos\MinDepthBST\MinDepthBST\obj\Debug\netcoreapp3.1\MinDepthBST.genruntimeconfig.cache
